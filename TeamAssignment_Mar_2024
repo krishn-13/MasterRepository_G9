@@ -1,0 +1,79 @@
+Assignment Title: Building Hangman Game Repository on GitHub
+
+Objective:
+The objective of this assignment is to create a team, collaborate on GitHub to create a repository for a Hangman game project using Python, and then share the repository link with the faculty.
+
+Requirements:
+1. Each student must have a GitHub account.
+2. Basic understanding of Python programming.
+3. Collaboration and teamwork skills.
+
+Assignment Steps:
+
+Step 1: Forming Teams
+   - Form teams of maximum 3 members each. ( 2 members minimum )
+   - Assign roles within the team (e.g., project manager, developer, tester).
+
+Step 2: Creating a GitHub Repository
+   - Choose one team member to create a new repository on GitHub.
+   - Name the repository something relevant, like "Hangman-Game-Project".
+   - Add a brief description outlining the purpose of the repository.
+
+Step 3: Adding Team Members as Contributors
+   - The team member who created the repository should add all other team members as contributors with appropriate access levels.
+   - Each team member should accept the invitation to join the repository.
+
+Step 4: Designing the Hangman Game
+   - Use the given Python Hangman game code as a reference.
+   - Discuss and design the game mechanics, including:
+     - Choosing a theme for the words (e.g., animals, countries, fruits).
+     - Implementing functions for displaying the hangman, checking guesses, and updating the game state.
+     - Incorporating features like scoring, difficulty levels, and hints (if desired).
+
+Step 5: Writing README.md File
+   - Create a README.md file in the repository.
+   - Include details about the project such as:
+     - Project title and description.
+     - Team members' names and roles.
+     - Instructions for running the game.
+     - Any additional features or notes.
+
+Step 6: Writing Python Game Code
+   - Write the Python code for the Hangman game.
+   - Ensure the code is well-commented and follows best practices.
+   - Include the necessary functions for gameplay, input handling, and game logic.
+
+Step 7: Testing and Debugging
+   - Test the game thoroughly to ensure it runs smoothly and without errors.
+   - Debug any issues or errors encountered during testing.
+   - Verify that the game mechanics work as intended.
+
+Step 8: Sharing Repository Link
+   - Once the repository is set up and the game is ready, share the repository link with the faculty using the provided Google Form link.
+   - Ensure that the repository is set to public or accessible to the faculty member.
+
+Submission Guidelines:
+   - Submit the GitHub repository link via the provided Google Form link.
+   - Ensure that all team members' names are mentioned in the README.md file.
+   - Make sure the repository contains both the README.md file and the Python game code (.py file).
+
+Deadline:
+   - The deadline for submission is 17th March 2024.
+   - Late submissions may incur penalties unless prior arrangements are made with the faculty.
+
+Evaluation Criteria:
+   - Completeness and functionality of the Hangman game.
+   - Quality of code and adherence to best practices.
+   - Collaboration and teamwork demonstrated on GitHub.
+   - Clarity and completeness of the README.md file.
+   - Timely submission and adherence to deadlines.
+
+Note:
+   - Reach out to the faculty or instructor if you encounter any issues or need clarification on any aspect of the assignment.
+   - Collaboration and communication within the team are crucial for the success of this assignment.
+
+  -- Sub,mit Public Repository of your project -- https://forms.gle/b31QvVXfFtVBjQa67
+
+Extra Resources: 
+
+  - Refrence game : ( Do not copy the code as it would be compared with your code. ) : https://replit.com/@vbhargav13/C78HangmanCapstone

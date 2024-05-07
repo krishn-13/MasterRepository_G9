@@ -18,7 +18,7 @@ Step 3: Create a new code file named "Codefile" in the "main" branch. Add the fo
 
 Step 4: Switch to another branch named "GitBranch_01".
 
-Step 5: Create a new code file named "Codefile" in the "GitBranch_01" branch. Add the following text to the file:
+Step 5: Create a new code file named "Codefile1" in the "GitBranch_01" branch. Add the following text to the file:
 ```
 "This is the file to create merge conflict.
 
@@ -29,12 +29,10 @@ We are here to create conflict!!"
 
 Step 6: Return to the "main" branch.
 
-Step 7: Create a pull request to merge both branches. Ensure that both branches have a code file with the same name, i.e., "Codefile".
+Step 7: Create a pull request to merge both branches. 
 
-Step 8: Resolve the conflict that arises due to having two different versions of the "Codefile" in separate branches. Merge both branches after resolving the conflict.
+Step 8: Resolve the conflict. Merge both branches after resolving the conflict.
 
 Submission:
 Submit a report detailing the steps you followed to simulate and resolve the merge conflict. Include screenshots of the GitHub interface at various stages of the process to demonstrate your understanding. Additionally, provide a brief explanation of how you resolved the conflict and merged the branches successfully.
 
-Note:
-Ensure that both branches have a code file named "Codefile" with different contents to create a merge conflict. This exercise aims to familiarize you with the common scenario of conflicting changes during collaborative development on GitHub.
